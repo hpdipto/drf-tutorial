@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # local
-    'snippents.apps.SnippetConfig',
+    'snippets.apps.SnippetsConfig',
 ]
 
 MIDDLEWARE = [
